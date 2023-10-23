@@ -1,0 +1,1 @@
+O dataset foi criado com a concatenação da base de dados CK+ e Fear2013, ambas disponíveis publicamente para o público desenvolvedor
